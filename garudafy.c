@@ -11,14 +11,11 @@ int main(int argc, char **argv)
 	int i;
 	char *ver = "Garudafy v1.0.0";
 	static struct option long_options[] = {
-		{"browser", no_argument, NULL, 'b'},
 		{"grub", no_argument, NULL, 'g'},
 		{"system", no_argument, NULL, 's'},
 		{"all", no_argument, NULL, 'a'},
-		{"annoying", no_argument, NULL, 'y'},
 		{"help", no_argument, NULL, 'h'},
 		{"version", no_argument, NULL, 'v'},
-		{"replace", required_argument, NULL, 'r'},
 		{NULL, 0, NULL, 0}};
 
 	char ch;
