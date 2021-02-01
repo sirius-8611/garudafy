@@ -1,5 +1,6 @@
 # Garuda 
-Garuda fy Any Arch Based Linux. 
+Garudafy Any Arch Based Linux.
+This provides a selective installation of garuda linux packages on your Arch Linux Platform. 
 Garuda Linux is a arch based distro that makes Arch easy to use. 
 
 Installing using C
@@ -36,11 +37,12 @@ Installing using bash
  * Vaapi
  * Garuda Wallpapers
  * Garuda Welcome
- * Garuda zsh Config
+ * Garuda zsh Config and more
 
 
 
 
----
-Not Tested yet!
----
+ > Tested only on KDE Neon
+
+## Bugs?
+Feel free to add a pull request!
