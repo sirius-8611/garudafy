@@ -2,6 +2,15 @@
 Garuda fy Any Arch Based Linux. 
 Garuda Linux is a arch based distro that makes Arch easy to use. 
 
+Installing using C
+```gcc garudafy.c -o garudafy
+   ./garudafy
+```
+Installing using bash
+```
+  WILL BE UPDATED SOON
+```
+
 ## Applications 
  * Garuda Grub
  * Garuda Grub Theme 
