@@ -1,4 +1,4 @@
-# Garuda 
+# Garudafy
 Garudafy Any Arch Based Linux.
 This provides a selective installation of garuda linux packages on your Arch Linux Platform. 
 Garuda Linux is a arch based distro that makes Arch easy to use. 
