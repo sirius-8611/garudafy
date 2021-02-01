@@ -36,3 +36,10 @@ Installing using bash
  * Garuda Wallpapers
  * Garuda Welcome
  * Garuda zsh Config
+
+
+
+
+---
+Not Tested yet!
+---
