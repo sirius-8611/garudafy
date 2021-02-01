@@ -9,7 +9,7 @@
 int main(int argc, char **argv)
 {
 	int i;
-	char *ver = "Garudafy v1.0.0"; // If you do not change this every update then the gods will punish you. unless its a minor bug fix or somehting.
+	char *ver = "Garudafy v1.0.0";
 	static struct option long_options[] = {
 		{"browser", no_argument, NULL, 'b'},
 		{"grub", no_argument, NULL, 'g'},
