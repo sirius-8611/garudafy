@@ -9,7 +9,8 @@ Installing using C
 ```
 Installing using bash
 ```
-  WILL BE UPDATED SOON
+  sudo chmod +x garudafy.sh
+  ./garudafy.sh
 ```
 
 ## Applications 
