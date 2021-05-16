@@ -42,7 +42,5 @@ Installing using bash
 
 
 
- > Tested only on KDE Neon
-
-## Bugs?
-Feel free to add a pull request!
+ > Tested only KDE Neon
+ > Tested only Manjaro
