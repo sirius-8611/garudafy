@@ -3,6 +3,10 @@ Garudafy Any Arch Based Linux.
 This provides a selective installation of garuda linux packages on your Arch Linux Platform. 
 Garuda Linux is a arch based distro that makes Arch easy to use. 
 
+Installing using the pre-built output
+```
+   ./garudafy
+```
 Installing using C
 ```
    gcc garudafy.c -o garudafy
