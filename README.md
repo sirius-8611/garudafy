@@ -1,10 +1,21 @@
-# Garudafy
+<h1 align="center">
+   
+Garudafy  <br><br>
+
+
+   ![image](https://user-images.githubusercontent.com/54891285/120130846-c662cc80-c1e4-11eb-855e-8f78cde33573.png)
+
+![C](https://img.shields.io/badge/-Made%20with%20C-333333?style=flat-square&logo=C) 
+
+
+   <h1>
+   
 Garudafy Any Arch Based Linux.
 This provides a selective installation of garuda linux packages on your Arch Linux Platform. 
 Garuda Linux is a arch based distro that makes Arch easy to use. 
 
 ## Installation
-### Installing using the pre-built output
+### Installing using the pre-built output file
 ```
    ./garudafy
 ```
