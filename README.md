@@ -6,7 +6,7 @@ Garudafy  <br><br>
    ![image](https://user-images.githubusercontent.com/54891285/120130846-c662cc80-c1e4-11eb-855e-8f78cde33573.png)
 
 ![C](https://img.shields.io/badge/-Made%20with%20C-333333?style=flat-square&logo=C) 
-
+![Bash](https://img.shields.io/badge/-Made%20with%20Shell-333333?style=flat-square&logo=shell)
 
    <h1>
    
